@@ -1,6 +1,6 @@
-### Hi there! 👋
-I'm Chris Thwaites, a software engineer and technical artist working in the games industry.
-==========================================================================================
+Hi there! 👋
+============
+### I'm Chris Thwaites, a software engineer and technical artist working in the games industry.
 
 [![Tech Stack](https://skillicons.dev/icons?i=python,cpp,cs,unreal,django,js,bootstrap,html,css,docker&perline=5)](https://skillicons.dev)
 
