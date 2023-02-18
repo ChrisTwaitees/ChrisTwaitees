@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
+I'm Chris Thwaites, a software engineer and technical artist working in the games industry.
+==========================================================================================
 
-<!--
-**ChrisTwaitees/ChrisTwaitees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Tech Stack](https://skillicons.dev/icons?i=python,cpp,cs,unreal,django,js,bootstrap,html,css,docker&perline=5)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on : ChromaEngine and some online tools
+- 🌱 I’m currently learning : web dev and cloud automation 
+- 👯 I’m looking to collaborate on : Game engine development
+- 🤔 I’m looking for help with : 
+- 💬 Ask me about : 
+- 📫 How to reach me: chrthw@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: originally from sunny Cape Town, South Africa ^^ 
