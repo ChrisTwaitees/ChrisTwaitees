@@ -4,7 +4,7 @@ Hi there! 👋
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,unreal,unity,django,js,bootstrap,html,css&perline=5)](https://skillicons.dev)
 
-- 🔭 I’m currently working on : ChromaEngine and some online tools.
+- 🔭 I’m currently working on : [ChromaEngine](https://github.com/ChrisTwaitees/ChromaEngine) and some online tools.
 - 🌱 I’m currently learning : web dev and automation.
 - 👯 I’m looking to collaborate on : Game engine development.
 - 😄 Pronouns: he/him.
