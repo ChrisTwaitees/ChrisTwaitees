@@ -8,6 +8,10 @@ Hi there! 👋
 - 🌱 I’m currently learning : web dev and automation.
 - 👯 I’m looking to collaborate on : Game engine development.
 - 🤔 I’m looking for help with : Game engine development.
-- 📫 How to reach me: chrthw@gmail.com
+
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: originally from sunny Cape Town, South Africa ^^ 
+
+
+### 📫 How to reach me
+[Chris Thwaites](mailto:chrthw@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
