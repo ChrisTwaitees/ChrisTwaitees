@@ -15,4 +15,4 @@ Hi there! 👋
 
 ### 📫 How to reach me
 [email](mailto:chrthw@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-[linkedin]:https://www.linkedin.com/in/christopher-thwaites-cg/
+[linkedin](https://www.linkedin.com/in/christopher-thwaites-cg/)
