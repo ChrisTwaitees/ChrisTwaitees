@@ -8,7 +8,6 @@ Hi there! 👋
 - 🌱 I’m currently learning : web dev and automation.
 - 👯 I’m looking to collaborate on : Game engine development.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: originally from sunny Cape Town, South Africa ^^ 
 
 ### 📫 How to reach me
 [email](mailto:chrthw@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
